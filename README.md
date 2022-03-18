@@ -1,5 +1,5 @@
 # ASD
-ASD offline exercises
+Algorithms and Data Structures offline exercises
 
 offline1: k-sorted linked-list
 
